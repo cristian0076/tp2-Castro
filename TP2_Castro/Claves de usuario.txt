@@ -1,0 +1,9 @@
+USUARIO: Fravega
+CLAVE: 123
+--------------------
+USUARIO: Garbarino
+CLAVE: 456
+--------------------
+USUARIO: Musimundo
+CLAVE: 789
+--------------------

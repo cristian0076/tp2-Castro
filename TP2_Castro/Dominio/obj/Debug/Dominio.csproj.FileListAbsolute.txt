@@ -1,0 +1,6 @@
+C:\Users\crist\source\repos\TP2_Castro\Dominio\bin\Debug\Dominio.dll
+C:\Users\crist\source\repos\TP2_Castro\Dominio\bin\Debug\Dominio.pdb
+C:\Users\crist\source\repos\TP2_Castro\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\TP2_Castro\Dominio\obj\Debug\Dominio.dll
+C:\Users\crist\source\repos\TP2_Castro\Dominio\obj\Debug\Dominio.pdb
+C:\Users\crist\source\repos\TP2_Castro\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
